@@ -1,4 +1,4 @@
-# [DataWhatNow](https://datawhatnow.com/)
+# [Data, what now?](https://datawhatnow.com/)
 
 Repository for all codes found on the [datawhatnow blog](https://datawhatnow.com/). The repository is organised in such a way that every blog post has its own folder. The code is usually in the form of a Jupyter Notebook because it is made for presentation.
 
